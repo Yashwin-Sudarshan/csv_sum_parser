@@ -1,0 +1,2 @@
+This is not a csv file. This file will be used by the tests to determine whether
+the program throws an error if a non-csv file is passed to the program.
